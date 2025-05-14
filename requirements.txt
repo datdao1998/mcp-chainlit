@@ -1,0 +1,7 @@
+mcp==1.7.1
+fastapi
+fastapi-mcp
+openai
+uvicorn
+chainlit
+psycopg2-binary
